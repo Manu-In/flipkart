@@ -2,3 +2,4 @@ Hello ram!
 Hello from Hotfix!
 Issue resolved!
 added new feature.
+new text
