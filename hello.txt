@@ -4,3 +4,4 @@ Issue resolved!
 added new feature.
 new text
 Verifing pull or fetch
+verifing Pull
